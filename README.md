@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/insight.the.moment/" target="_blank"><img width="42px" alt="Instagram" title="Instagram" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/87604133-f606-4745-83e6-cf9859d6f33e"/></a>
   </p>
 </header>
-
+<br/>
 <main>
   <div>
     I'm a Full-stack Web Developer passionate about creating unique web experiences. I want to be able to work on meaningful projects that have a positive impact in the world.
