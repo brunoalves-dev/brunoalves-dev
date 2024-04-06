@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <main>
   <div>
-    I'm a Full Stack Web Developer passionate about creating unique web experiences. I want to be able to work on meaningful projects that have a positive impact in the world.
+    I'm a Full-stack Web Developer passionate about creating unique web experiences. I want to be able to work on meaningful projects that have a positive impact in the world.
     I love sharing my knowledge with others as well as learn from others, I'm currently building my blog to share my path and knowledge because who knows, perhaps I can help a younger me somehwere out there in there world.<br/>
     When I'm not coding, you can find me geeking about photography, gaming and/or making games, making music.
   </div>
