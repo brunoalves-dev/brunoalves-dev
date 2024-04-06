@@ -12,23 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <header>
   <!-- Headline section -->
   <p align="center">
     <a href="https://github.com/brunoalves-dev">
-      <img src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/1de84c02-6ee9-47e1-b89b-c433a8208550" alt="Bruno Alves" />
+      <img src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/e959af8d-7202-4f26-b819-3245f61eaad8" alt="Bruno Alves" />
     </a>
     <br/>
     <a href="https://github.com/brunoalves-dev">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=8BFF6F&center=true&random=false&width=435&lines=I'M+A+FULL+STACK+WEB+DEVELOPER;I'M+ALWAYS+LEARNING+NEW+THINGS" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&duration=2000&pause=2000&color=FF9900&center=true&random=true&width=435&lines=I'm+a+full-stack+web+developer;I'm+always+learning+new+things;I'm+experienced+with+UI+%2F+UX+design;I've+been+coding+for+7%2B+years" />
     </a>
   </p>
   <!-- Social icons section -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/bacoding/" target="_blank"><img width="42px" alt="Linkedin" title="Linkedin" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/30c6a5a0-b617-49df-89e2-778c23b66298"/></a>
-    <a href="https://dev.to/bcreative" target="_blank"><img width="42px" alt="Dev" title="Dev" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/43bdb785-1d56-4bb3-80c2-f6423f757787"/></a>
-    <a href="https://www.instagram.com/insight.the.moment/" target="_blank"><img width="42px" alt="Instagram" title="Instagram" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/b303e8f8-7003-4f7a-9721-f2472c6041d0"/></a>
+    <a href="https://www.linkedin.com/in/bacoding/" target="_blank"><img width="42px" alt="Linkedin" title="Linkedin" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/94461a1c-d7a2-4448-b2ae-3c82cfd31226"/></a>
+    <a href="https://dev.to/bcreative" target="_blank"><img width="42px" alt="Dev" title="Dev" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/7c32bde5-d5ae-4ef9-9a4a-210f56136b0d"/></a>
+    <a href="https://www.instagram.com/insight.the.moment/" target="_blank"><img width="42px" alt="Instagram" title="Instagram" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/87604133-f606-4745-83e6-cf9859d6f33e"/></a>
   </p>
 </header>
 
