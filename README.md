@@ -73,6 +73,6 @@ Here are some ideas to get you started:
   <details>
     <summary><b>🧐 Currently Learning</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,electron,threejs,rust,python" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,electron,threejs,rust,python,lua" />
   </details>
 </main>
