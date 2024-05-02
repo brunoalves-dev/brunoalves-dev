@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </p>
   <!-- Social icons section -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/bacoding/" target="_blank"><img width="42px" alt="Linkedin" title="Linkedin" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/94461a1c-d7a2-4448-b2ae-3c82cfd31226"/></a>
+    <a href="https://www.linkedin.com/in/bcreativedev" target="_blank"><img width="42px" alt="Linkedin" title="Linkedin" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/94461a1c-d7a2-4448-b2ae-3c82cfd31226"/></a>
     <a href="https://dev.to/bcreative" target="_blank"><img width="42px" alt="Dev" title="Dev" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/7c32bde5-d5ae-4ef9-9a4a-210f56136b0d"/></a>
     <a href="https://www.instagram.com/insight.the.moment/" target="_blank"><img width="42px" alt="Instagram" title="Instagram" src="https://github.com/brunoalves-dev/brunoalves-dev/assets/37402751/87604133-f606-4745-83e6-cf9859d6f33e"/></a>
   </p>
