@@ -41,8 +41,8 @@ Here are some ideas to get you started:
   <div>
     <ul>
       <li>🔭 I’m currently working on my new portfolio & blog!</li>
-      <li>🌱 I’m currently learning <b>Typescript, Next.js, Three.js, WebGL, Rust</b> while improving my programming fundamentals in Computer Science with Harvard's CS50X and other means</li>
-      <li>💬 Ask me about anything related to <b>Javascript, React JS, CSS</b></li>
+      <li>🌱 I’m currently learning <b>Payload, Three.js, WebGL, Rust</b> while improving my programming fundamentals in Computer Science with Harvard's CS50X and other means</li>
+      <li>💬 Ask me about anything related to <b>Javascript, React JS, Typescript, Next.js, CSS</b></li>
       <li>🤔 I’m looking to start using Github more!</li>
       <li>📫 How to reach me <a href="mailto:brunoamerico.dev@gmail.com">brunoamerico.dev@gmail.com</a></li>
     </ul>
