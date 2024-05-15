@@ -41,8 +41,8 @@ Here are some ideas to get you started:
   <div>
     <ul>
       <li>🔭 I’m currently working on my new portfolio & blog!</li>
-      <li>🌱 I’m currently learning <b>Payload, Three.js, WebGL, Rust</b> while improving my programming fundamentals in Computer Science with Harvard's CS50X and other means</li>
-      <li>💬 Ask me about anything related to <b>Javascript, React JS, Typescript, Next.js, CSS</b></li>
+      <li>🌱 I’m currently learning <b>Three.js, WebGL, Payload, GitHub Actions</b> while improving my programming fundamentals in Computer Science with Harvard's CS50X and other means</li>
+      <li>💬 Ask me about anything related to <b>Javascript, React, Typescript, and CSS</b>!</li>
       <li>🤔 I’m looking to start using Github more!</li>
       <li>📫 How to reach me <a href="mailto:brunoamerico.dev@gmail.com">brunoamerico.dev@gmail.com</a></li>
     </ul>
@@ -52,27 +52,27 @@ Here are some ideas to get you started:
   <details>
     <summary><b>🖥️ Programming and markup languages</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,md" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,md" />
   </details>
   <details>
     <summary><b>📔 Frameworks and libraries</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=react,express,tailwind,jquery" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,tailwind,jquery" />
   </details>
   <details>
     <summary><b>😶‍🌫️ Databases and Cloud Hosting</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=graphql,sequelize,firebase" />
+    <img src="https://skillicons.dev/icons?i=postgres,graphql,firebase" />
   </details>
   <details>
     <summary><b>🌐 Software and other tools</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,docker,webpack,vite,cypress,jest,git,githubactions,npm,pnpm,ps,ai,figma,ableton,blender,discord,bots,apple" />
+    <img src="https://skillicons.dev/icons?i=vitest,vscode,neovim,docker,pnpm,ps,ai,figma,ableton,apple" />
   </details>
 
   <details>
     <summary><b>🧐 Currently Learning</b></summary>
     <br/>
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,electron,threejs,rust,python,lua" />
+    <img src="https://skillicons.dev/icons?i=nextjs,githubactions,electron,threejs,unreal,blender,rust" />
   </details>
 </main>
